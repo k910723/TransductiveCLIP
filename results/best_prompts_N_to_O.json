@@ -1,0 +1,51 @@
+{
+  "best_prompts": {
+    "live": [
+      "a photo of a person's face with natural skin texture and depth",
+      "a person with realistic skin texture",
+      "a real human face with natural color variations",
+      "a real person displaying natural micro-expressions",
+      "an authentic human face with consistent texture quality"
+    ],
+    "Print": [
+      "a printed photograph of a face",
+      "a face image reproduced on photographic paper",
+      "a matte finish print of a human portrait",
+      "a photograph duplicated onto paper",
+      "a flat paper reproduction lacking depth cues"
+    ],
+    "Replay": [
+      "a digital screen showing a face",
+      "a face playback on a tablet",
+      "a recorded video of a face on a screen",
+      "a human face on a pixelated display",
+      "a screen-captured face with digital artifacts"
+    ]
+  },
+  "best_metrics": {
+    "live": {
+      "ACER": 0.38446969697928146,
+      "AUC": 0.6454553106825834,
+      "APCER": 0.3184343434435134,
+      "NPCER": 0.45050505051504947
+    },
+    "Print": {
+      "ACER": 0.1891414141841266,
+      "AUC": 0.8814365881032546,
+      "APCER": 0.23484848486187634,
+      "NPCER": 0.1434343435063769
+    },
+    "Replay": {
+      "ACER": 0.30012626264883047,
+      "AUC": 0.7557381899806143,
+      "APCER": 0.2648989899108637,
+      "NPCER": 0.33535353538679724
+    }
+  },
+  "final_metrics": {
+    "ACER": 0.3011363636598753,
+    "AUC": 0.7555925415773901,
+    "APCER": 0.2800505050616136,
+    "NPCER": 0.3222222222581369
+  }
+}

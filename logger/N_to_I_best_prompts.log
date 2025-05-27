@@ -1,0 +1,145 @@
+2025-05-24 19:24:13,177 INFO: Starting best prompt search for CLIP FAS
+2025-05-24 19:24:13,182 INFO: Train on N, Test on I, Batch Size = 75
+2025-05-24 19:24:13,182 INFO: Pre-encoding all images...
+2025-05-24 19:24:15,163 INFO: 
+Finding best live prompts...
+2025-05-24 19:32:02,009 INFO: Best live prompts found with ACER: 0.372143
+2025-05-24 19:32:02,009 INFO:   Live prompt 1: "a person looking directly at the camera"
+2025-05-24 19:32:02,009 INFO:   Live prompt 2: "an authentic photograph of a living person"
+2025-05-24 19:32:02,009 INFO:   Live prompt 3: "an authentic portrait with detailed skin texture"
+2025-05-24 19:32:02,009 INFO:   Live prompt 4: "an authentic face with visible blood circulation"
+2025-05-24 19:32:02,009 INFO:   Live prompt 5: "a real person displaying natural micro-expressions"
+2025-05-24 19:32:02,009 INFO: 
+Finding best Print spoof prompts...
+2025-05-24 19:34:52,608 INFO: Best Print prompts found with ACER: 0.212857
+2025-05-24 19:34:52,608 INFO:   Print prompt 1: "a printed photograph of a face"
+2025-05-24 19:34:52,608 INFO:   Print prompt 2: "a paper photo of a face"
+2025-05-24 19:34:52,608 INFO:   Print prompt 3: "a person's face printed on paper"
+2025-05-24 19:34:52,608 INFO:   Print prompt 4: "a glossy paper printout of a human face"
+2025-05-24 19:34:52,608 INFO:   Print prompt 5: "a face image reproduced on photographic paper"
+2025-05-24 19:34:52,608 INFO: 
+Finding best Replay spoof prompts...
+2025-05-24 19:37:43,065 INFO: Best Replay prompts found with ACER: 0.176429
+2025-05-24 19:37:43,065 INFO:   Replay prompt 1: "a person's face on a smartphone screen"
+2025-05-24 19:37:43,065 INFO:   Replay prompt 2: "a face video playing on a monitor"
+2025-05-24 19:37:43,065 INFO:   Replay prompt 3: "a recorded video of a face on a screen"
+2025-05-24 19:37:43,065 INFO:   Replay prompt 4: "a face visible on a backlit screen"
+2025-05-24 19:37:43,065 INFO:   Replay prompt 5: "a digital screen displaying a face image"
+2025-05-24 19:37:43,065 INFO: 
+Finding best Mask spoof prompts...
+2025-05-24 19:40:33,628 INFO: Best Mask prompts found with ACER: 0.212143
+2025-05-24 19:40:33,628 INFO:   Mask prompt 1: "a person wearing a 3D mask"
+2025-05-24 19:40:33,628 INFO:   Mask prompt 2: "a lifelike mask of a human face"
+2025-05-24 19:40:33,628 INFO:   Mask prompt 3: "a synthetic face covering with artificial texture"
+2025-05-24 19:40:33,628 INFO:   Mask prompt 4: "a person disguised behind a realistic face covering"
+2025-05-24 19:40:33,628 INFO:   Mask prompt 5: "a synthetic face covering with artificial coloration"
+2025-05-24 19:40:33,628 INFO: 
+Finding best Partial spoof prompts...
+2025-05-24 19:43:24,040 INFO: Best Partial prompts found with ACER: 0.302143
+2025-05-24 19:43:24,040 INFO:   Partial prompt 1: "a face partially covered"
+2025-05-24 19:43:24,040 INFO:   Partial prompt 2: "only part of a face visible"
+2025-05-24 19:43:24,040 INFO:   Partial prompt 3: "a partially visible face"
+2025-05-24 19:43:24,040 INFO:   Partial prompt 4: "a face with strategically covered features"
+2025-05-24 19:43:24,040 INFO:   Partial prompt 5: "a deliberately incomplete facial image"
+2025-05-24 19:43:24,040 INFO: 
+Finding best Mannequin spoof prompts...
+2025-05-24 19:46:14,248 INFO: Best Mannequin prompts found with ACER: 0.244286
+2025-05-24 19:46:14,248 INFO:   Mannequin prompt 1: "a plastic mannequin face"
+2025-05-24 19:46:14,248 INFO:   Mannequin prompt 2: "a store display mannequin"
+2025-05-24 19:46:14,248 INFO:   Mannequin prompt 3: "a lifeless mannequin bust"
+2025-05-24 19:46:14,248 INFO:   Mannequin prompt 4: "a synthetic human head replica"
+2025-05-24 19:46:14,248 INFO:   Mannequin prompt 5: "a mannequin with painted facial features"
+2025-05-24 19:46:14,262 INFO: 
+=== FINAL RESULTS WITH ALL BEST PROMPTS ===
+2025-05-24 19:46:14,262 INFO: ACER: 0.204286, AUC: 0.866898
+2025-05-24 19:46:14,262 INFO: APCER: 0.122857, NPCER: 0.285714
+2025-05-24 19:46:14,263 INFO: 
+=== BEST PROMPTS SUMMARY ===
+2025-05-24 19:46:14,263 INFO: 
+Best Live Prompts:
+2025-05-24 19:46:14,263 INFO:   1. "a person looking directly at the camera"
+2025-05-24 19:46:14,263 INFO:   2. "an authentic photograph of a living person"
+2025-05-24 19:46:14,263 INFO:   3. "an authentic portrait with detailed skin texture"
+2025-05-24 19:46:14,263 INFO:   4. "an authentic face with visible blood circulation"
+2025-05-24 19:46:14,263 INFO:   5. "a real person displaying natural micro-expressions"
+2025-05-24 19:46:14,263 INFO: 
+Best Print Prompts:
+2025-05-24 19:46:14,263 INFO:   1. "a printed photograph of a face"
+2025-05-24 19:46:14,263 INFO:   2. "a paper photo of a face"
+2025-05-24 19:46:14,263 INFO:   3. "a person's face printed on paper"
+2025-05-24 19:46:14,263 INFO:   4. "a glossy paper printout of a human face"
+2025-05-24 19:46:14,263 INFO:   5. "a face image reproduced on photographic paper"
+2025-05-24 19:46:14,263 INFO: 
+Best Replay Prompts:
+2025-05-24 19:46:14,263 INFO:   1. "a person's face on a smartphone screen"
+2025-05-24 19:46:14,263 INFO:   2. "a face video playing on a monitor"
+2025-05-24 19:46:14,263 INFO:   3. "a recorded video of a face on a screen"
+2025-05-24 19:46:14,263 INFO:   4. "a face visible on a backlit screen"
+2025-05-24 19:46:14,263 INFO:   5. "a digital screen displaying a face image"
+2025-05-24 19:46:14,263 INFO: 
+Best Mask Prompts:
+2025-05-24 19:46:14,263 INFO:   1. "a person wearing a 3D mask"
+2025-05-24 19:46:14,263 INFO:   2. "a lifelike mask of a human face"
+2025-05-24 19:46:14,263 INFO:   3. "a synthetic face covering with artificial texture"
+2025-05-24 19:46:14,263 INFO:   4. "a person disguised behind a realistic face covering"
+2025-05-24 19:46:14,263 INFO:   5. "a synthetic face covering with artificial coloration"
+2025-05-24 19:46:14,264 INFO: 
+Best Partial Prompts:
+2025-05-24 19:46:14,264 INFO:   1. "a face partially covered"
+2025-05-24 19:46:14,264 INFO:   2. "only part of a face visible"
+2025-05-24 19:46:14,264 INFO:   3. "a partially visible face"
+2025-05-24 19:46:14,264 INFO:   4. "a face with strategically covered features"
+2025-05-24 19:46:14,264 INFO:   5. "a deliberately incomplete facial image"
+2025-05-24 19:46:14,264 INFO: 
+Best Mannequin Prompts:
+2025-05-24 19:46:14,264 INFO:   1. "a plastic mannequin face"
+2025-05-24 19:46:14,264 INFO:   2. "a store display mannequin"
+2025-05-24 19:46:14,264 INFO:   3. "a lifeless mannequin bust"
+2025-05-24 19:46:14,264 INFO:   4. "a synthetic human head replica"
+2025-05-24 19:46:14,264 INFO:   5. "a mannequin with painted facial features"
+2025-05-24 19:46:14,264 INFO: 
+=== FINAL PERFORMANCE ===
+2025-05-24 19:46:14,264 INFO: ACER: 0.204286
+2025-05-24 19:46:14,264 INFO: AUC: 0.866898
+2025-05-24 19:46:14,264 INFO: APCER: 0.122857
+2025-05-24 19:46:14,264 INFO: NPCER: 0.285714
+
+LIVE_CLASS_TEXT = [
+    "a person looking directly at the camera",
+    "an authentic photograph of a living person",
+    "an authentic portrait with detailed skin texture",
+    "an authentic face with visible blood circulation",
+    "a real person displaying natural micro-expressions"
+]
+SPOOF_CLASS_TEXTS = [
+    # print
+    "a printed photograph of a face",
+    "a paper photo of a face",
+    "a person's face printed on paper",
+    "a glossy paper printout of a human face",
+    "a face image reproduced on photographic paper",
+    # replay
+    "a person's face on a smartphone screen",
+    "a face video playing on a monitor",
+    "a recorded video of a face on a screen",
+    "a face visible on a backlit screen",
+    "a digital screen displaying a face image",
+    # mask
+    "a person wearing a 3D mask",
+    "a lifelike mask of a human face",
+    "a synthetic face covering with artificial texture",
+    "a person disguised behind a realistic face covering",
+    "a synthetic face covering with artificial coloration",
+    # partial
+    "a face partially covered",
+    "only part of a face visible",
+    "a partially visible face",
+    "a face with strategically covered features",
+    "a deliberately incomplete facial image",
+    # mannequin
+    "a plastic mannequin face",
+    "a store display mannequin",
+    "a lifeless mannequin bust",
+    "a synthetic human head replica",
+    "a mannequin with painted facial features"
+]

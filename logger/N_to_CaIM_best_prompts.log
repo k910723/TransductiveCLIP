@@ -1,0 +1,82 @@
+2025-05-24 21:04:37,100 INFO: Starting best prompt search for CLIP FAS
+2025-05-24 21:04:37,105 INFO: Train on N, Test on Ca/I/M, Batch Size = 75
+2025-05-24 21:04:37,105 INFO: Pre-encoding all images...
+2025-05-24 21:04:41,345 INFO: 
+Finding best live prompts...
+2025-05-24 21:09:02,657 INFO: Best live prompts found with ACER: 0.371160
+2025-05-24 21:09:02,657 INFO:   Live prompt 1: "a person looking directly at the camera"
+2025-05-24 21:09:02,657 INFO:   Live prompt 2: "a real human with lifelike facial expressions"
+2025-05-24 21:09:02,657 INFO:   Live prompt 3: "an authentic face with visible blood circulation"
+2025-05-24 21:09:02,657 INFO:   Live prompt 4: "a living person with natural facial movements"
+2025-05-24 21:09:02,657 INFO:   Live prompt 5: "a real person displaying natural micro-expressions"
+2025-05-24 21:09:02,657 INFO: 
+Finding best Print spoof prompts...
+2025-05-24 21:12:03,039 INFO: Best Print prompts found with ACER: 0.217525
+2025-05-24 21:12:03,039 INFO:   Print prompt 1: "a printed photograph of a face"
+2025-05-24 21:12:03,039 INFO:   Print prompt 2: "a paper photo of a face"
+2025-05-24 21:12:03,039 INFO:   Print prompt 3: "a person's face printed on paper"
+2025-05-24 21:12:03,039 INFO:   Print prompt 4: "a matte finish print of a human portrait"
+2025-05-24 21:12:03,039 INFO:   Print prompt 5: "a face printed on cardstock paper"
+2025-05-24 21:12:03,040 INFO: 
+Finding best Replay spoof prompts...
+2025-05-24 21:15:01,005 INFO: Best Replay prompts found with ACER: 0.296650
+2025-05-24 21:15:01,005 INFO:   Replay prompt 1: "a recorded video of a face on a screen"
+2025-05-24 21:15:01,005 INFO:   Replay prompt 2: "a human face on a pixelated display"
+2025-05-24 21:15:01,005 INFO:   Replay prompt 3: "a face visible on a backlit screen"
+2025-05-24 21:15:01,005 INFO:   Replay prompt 4: "a digital screen displaying a face image"
+2025-05-24 21:15:01,005 INFO:   Replay prompt 5: "a face with unnatural electronic coloration"
+2025-05-24 21:15:01,017 INFO: 
+=== FINAL RESULTS WITH ALL BEST PROMPTS ===
+2025-05-24 21:15:01,017 INFO: ACER: 0.288930, AUC: 0.749173
+2025-05-24 21:15:01,018 INFO: APCER: 0.363971, NPCER: 0.213889
+2025-05-24 21:15:01,018 INFO: 
+=== BEST PROMPTS SUMMARY ===
+2025-05-24 21:15:01,018 INFO: 
+Best Live Prompts:
+2025-05-24 21:15:01,018 INFO:   1. "a person looking directly at the camera"
+2025-05-24 21:15:01,018 INFO:   2. "a real human with lifelike facial expressions"
+2025-05-24 21:15:01,018 INFO:   3. "an authentic face with visible blood circulation"
+2025-05-24 21:15:01,018 INFO:   4. "a living person with natural facial movements"
+2025-05-24 21:15:01,018 INFO:   5. "a real person displaying natural micro-expressions"
+2025-05-24 21:15:01,018 INFO: 
+Best Print Prompts:
+2025-05-24 21:15:01,018 INFO:   1. "a printed photograph of a face"
+2025-05-24 21:15:01,018 INFO:   2. "a paper photo of a face"
+2025-05-24 21:15:01,018 INFO:   3. "a person's face printed on paper"
+2025-05-24 21:15:01,018 INFO:   4. "a matte finish print of a human portrait"
+2025-05-24 21:15:01,018 INFO:   5. "a face printed on cardstock paper"
+2025-05-24 21:15:01,018 INFO: 
+Best Replay Prompts:
+2025-05-24 21:15:01,018 INFO:   1. "a recorded video of a face on a screen"
+2025-05-24 21:15:01,018 INFO:   2. "a human face on a pixelated display"
+2025-05-24 21:15:01,018 INFO:   3. "a face visible on a backlit screen"
+2025-05-24 21:15:01,018 INFO:   4. "a digital screen displaying a face image"
+2025-05-24 21:15:01,018 INFO:   5. "a face with unnatural electronic coloration"
+2025-05-24 21:15:01,018 INFO: 
+=== FINAL PERFORMANCE ===
+2025-05-24 21:15:01,019 INFO: ACER: 0.288930
+2025-05-24 21:15:01,019 INFO: AUC: 0.749173
+2025-05-24 21:15:01,019 INFO: APCER: 0.363971
+2025-05-24 21:15:01,019 INFO: NPCER: 0.213889
+
+LIVE_CLASS_TEXT = [
+    "a person looking directly at the camera",
+    "a real human with lifelike facial expressions",
+    "an authentic face with visible blood circulation",
+    "a living person with natural facial movements",
+    "a real person displaying natural micro-expressions"
+]
+SPOOF_CLASS_TEXTS = [
+    # print
+    "a printed photograph of a face",
+    "a paper photo of a face",
+    "a person's face printed on paper",
+    "a matte finish print of a human portrait",
+    "a face printed on cardstock paper",
+    # replay
+    "a recorded video of a face on a screen",
+    "a human face on a pixelated display",
+    "a face visible on a backlit screen",
+    "a digital screen displaying a face image",
+    "a face with unnatural electronic coloration"
+]

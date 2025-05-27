@@ -1,0 +1,109 @@
+2025-05-21 15:56:12,849 INFO: Starting best prompt search for CLIP FAS
+2025-05-21 15:56:12,854 INFO: Train on N, Test on Ca, Batch Size = 75
+2025-05-21 15:56:12,854 INFO: Pre-encoding all images...
+2025-05-21 15:56:19,510 INFO: 
+Finding best live prompts...
+2025-05-21 16:04:05,206 INFO: Best live prompts found with ACER: 0.220000
+2025-05-21 16:04:05,206 INFO:   Live prompt 1: "a person looking directly at the camera"
+2025-05-21 16:04:05,206 INFO:   Live prompt 2: "a photo of a person's face with natural skin texture and depth"
+2025-05-21 16:04:05,206 INFO:   Live prompt 3: "a person with realistic skin texture"
+2025-05-21 16:04:05,206 INFO:   Live prompt 4: "a genuine person with natural eye reflections"
+2025-05-21 16:04:05,206 INFO:   Live prompt 5: "a real person displaying natural micro-expressions"
+2025-05-21 16:04:05,206 INFO: 
+Finding best Print spoof prompts...
+2025-05-21 16:06:52,950 INFO: Best Print prompts found with ACER: 0.032222
+2025-05-21 16:06:52,950 INFO:   Print prompt 1: "a printed photograph of a face"
+2025-05-21 16:06:52,950 INFO:   Print prompt 2: "a paper photo of a face"
+2025-05-21 16:06:52,950 INFO:   Print prompt 3: "a 2D printed reproduction of a portrait"
+2025-05-21 16:06:52,950 INFO:   Print prompt 4: "a matte finish print of a human portrait"
+2025-05-21 16:06:52,950 INFO:   Print prompt 5: "a photograph duplicated onto paper"
+2025-05-21 16:06:52,950 INFO: 
+Finding best Replay spoof prompts...
+2025-05-21 16:09:42,324 INFO: Best Replay prompts found with ACER: 0.173333
+2025-05-21 16:09:42,324 INFO:   Replay prompt 1: "a face playback on a tablet"
+2025-05-21 16:09:42,324 INFO:   Replay prompt 2: "a recorded video of a face on a screen"
+2025-05-21 16:09:42,324 INFO:   Replay prompt 3: "a portrait being played back on electronic display"
+2025-05-21 16:09:42,325 INFO:   Replay prompt 4: "a human face on a pixelated display"
+2025-05-21 16:09:42,325 INFO:   Replay prompt 5: "a face with unnatural electronic coloration"
+2025-05-21 16:09:42,325 INFO: 
+Finding best Mask spoof prompts...
+2025-05-21 16:12:30,416 INFO: Best Mask prompts found with ACER: 0.130000
+2025-05-21 16:12:30,416 INFO:   Mask prompt 1: "a person wearing a 3D mask"
+2025-05-21 16:12:30,416 INFO:   Mask prompt 2: "a silicone mask covering a face"
+2025-05-21 16:12:30,416 INFO:   Mask prompt 3: "a molded mask impersonating a face"
+2025-05-21 16:12:30,416 INFO:   Mask prompt 4: "a theatrical prosthetic mask covering a face"
+2025-05-21 16:12:30,416 INFO:   Mask prompt 5: "a person disguised behind a realistic face covering"
+2025-05-21 16:12:30,416 INFO: 
+Finding best Partial spoof prompts...
+2025-05-21 16:15:18,662 INFO: Best Partial prompts found with ACER: 0.107778
+2025-05-21 16:15:18,662 INFO:   Partial prompt 1: "only part of a face visible"
+2025-05-21 16:15:18,664 INFO:   Partial prompt 2: "a face with selective areas hidden"
+2025-05-21 16:15:18,664 INFO:   Partial prompt 3: "a face with strategically covered features"
+2025-05-21 16:15:18,664 INFO:   Partial prompt 4: "a portrait with sections deliberately hidden"
+2025-05-21 16:15:18,664 INFO:   Partial prompt 5: "a fragmentary view of a human face"
+2025-05-21 16:15:18,664 INFO: 
+Finding best Mannequin spoof prompts...
+2025-05-21 16:18:07,508 INFO: Best Mannequin prompts found with ACER: 0.130000
+2025-05-21 16:18:07,508 INFO:   Mannequin prompt 1: "a mannequin head"
+2025-05-21 16:18:07,508 INFO:   Mannequin prompt 2: "a store display mannequin"
+2025-05-21 16:18:07,508 INFO:   Mannequin prompt 3: "a mannequin with painted facial features"
+2025-05-21 16:18:07,508 INFO:   Mannequin prompt 4: "a display dummy with face-like features"
+2025-05-21 16:18:07,508 INFO:   Mannequin prompt 5: "a fabricated human facsimile for display"
+2025-05-21 16:18:07,541 INFO: 
+=== FINAL RESULTS WITH ALL BEST PROMPTS ===
+2025-05-21 16:18:07,541 INFO: ACER: 0.153333, AUC: 0.896689
+2025-05-21 16:18:07,541 INFO: APCER: 0.213333, NPCER: 0.093333
+2025-05-21 16:18:07,542 INFO: 
+=== BEST PROMPTS SUMMARY ===
+2025-05-21 16:18:07,542 INFO: 
+Best Live Prompts:
+2025-05-21 16:18:07,542 INFO:   1. "a person looking directly at the camera"
+2025-05-21 16:18:07,542 INFO:   2. "a photo of a person's face with natural skin texture and depth"
+2025-05-21 16:18:07,542 INFO:   3. "a person with realistic skin texture"
+2025-05-21 16:18:07,542 INFO:   4. "a genuine person with natural eye reflections"
+2025-05-21 16:18:07,542 INFO:   5. "a real person displaying natural micro-expressions"
+2025-05-21 16:18:07,542 INFO: 
+Best Print Prompts:
+2025-05-21 16:18:07,542 INFO:   1. "a printed photograph of a face"
+2025-05-21 16:18:07,542 INFO:   2. "a paper photo of a face"
+2025-05-21 16:18:07,542 INFO:   3. "a 2D printed reproduction of a portrait"
+2025-05-21 16:18:07,542 INFO:   4. "a matte finish print of a human portrait"
+2025-05-21 16:18:07,542 INFO:   5. "a photograph duplicated onto paper"
+2025-05-21 16:18:07,542 INFO: 
+Best Replay Prompts:
+2025-05-21 16:18:07,542 INFO:   1. "a face playback on a tablet"
+2025-05-21 16:18:07,542 INFO:   2. "a recorded video of a face on a screen"
+2025-05-21 16:18:07,542 INFO:   3. "a portrait being played back on electronic display"
+2025-05-21 16:18:07,542 INFO:   4. "a human face on a pixelated display"
+2025-05-21 16:18:07,542 INFO:   5. "a face with unnatural electronic coloration"
+2025-05-21 16:18:07,543 INFO: 
+Best Mask Prompts:
+2025-05-21 16:18:07,543 INFO:   1. "a person wearing a 3D mask"
+2025-05-21 16:18:07,543 INFO:   2. "a silicone mask covering a face"
+2025-05-21 16:18:07,543 INFO:   3. "a molded mask impersonating a face"
+2025-05-21 16:18:07,543 INFO:   4. "a theatrical prosthetic mask covering a face"
+2025-05-21 16:18:07,543 INFO:   5. "a person disguised behind a realistic face covering"
+2025-05-21 16:18:07,543 INFO: 
+Best Partial Prompts:
+2025-05-21 16:18:07,543 INFO:   1. "only part of a face visible"
+2025-05-21 16:18:07,543 INFO:   2. "a face with selective areas hidden"
+2025-05-21 16:18:07,543 INFO:   3. "a face with strategically covered features"
+2025-05-21 16:18:07,543 INFO:   4. "a portrait with sections deliberately hidden"
+2025-05-21 16:18:07,543 INFO:   5. "a fragmentary view of a human face"
+2025-05-21 16:18:07,543 INFO: 
+Best Mannequin Prompts:
+2025-05-21 16:18:07,543 INFO:   1. "a mannequin head"
+2025-05-21 16:18:07,543 INFO:   2. "a store display mannequin"
+2025-05-21 16:18:07,543 INFO:   3. "a mannequin with painted facial features"
+2025-05-21 16:18:07,543 INFO:   4. "a display dummy with face-like features"
+2025-05-21 16:18:07,543 INFO:   5. "a fabricated human facsimile for display"
+2025-05-21 16:18:07,543 INFO: 
+=== FINAL PERFORMANCE ===
+2025-05-21 16:18:07,543 INFO: ACER: 0.153333
+2025-05-21 16:18:07,543 INFO: AUC: 0.896689
+2025-05-21 16:18:07,543 INFO: APCER: 0.213333
+2025-05-21 16:18:07,543 INFO: NPCER: 0.093333
+2025-05-21 16:32:38,735 INFO: Starting best prompts finding process
+2025-05-21 16:32:38,740 INFO: Train on N, Test on Ca, Batch Size = 75
+2025-05-21 16:32:42,434 INFO: CLIP model 'ViT-B/32' loaded successfully
+2025-05-21 16:32:42,434 INFO: 

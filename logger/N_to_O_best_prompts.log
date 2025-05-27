@@ -1,0 +1,60 @@
+2025-05-25 14:59:04,340 INFO: Starting best prompt search for CLIP FAS
+2025-05-25 14:59:04,345 INFO: Train on N, Test on O, Batch Size = 75
+2025-05-25 14:59:04,345 INFO: Pre-encoding all images...
+2025-05-25 14:59:16,321 INFO: 
+Finding best live prompts...
+2025-05-25 15:03:52,139 INFO: Best live prompts found with ACER: 0.384470
+2025-05-25 15:03:52,139 INFO:   Live prompt 1: "a photo of a person's face with natural skin texture and depth"
+2025-05-25 15:03:52,139 INFO:   Live prompt 2: "a person with realistic skin texture"
+2025-05-25 15:03:52,139 INFO:   Live prompt 3: "a real human face with natural color variations"
+2025-05-25 15:03:52,140 INFO:   Live prompt 4: "a real person displaying natural micro-expressions"
+2025-05-25 15:03:52,140 INFO:   Live prompt 5: "an authentic human face with consistent texture quality"
+2025-05-25 15:03:52,140 INFO: 
+Finding best Print spoof prompts...
+2025-05-25 15:07:03,619 INFO: Best Print prompts found with ACER: 0.189141
+2025-05-25 15:07:03,619 INFO:   Print prompt 1: "a printed photograph of a face"
+2025-05-25 15:07:03,619 INFO:   Print prompt 2: "a face image reproduced on photographic paper"
+2025-05-25 15:07:03,619 INFO:   Print prompt 3: "a matte finish print of a human portrait"
+2025-05-25 15:07:03,619 INFO:   Print prompt 4: "a photograph duplicated onto paper"
+2025-05-25 15:07:03,619 INFO:   Print prompt 5: "a flat paper reproduction lacking depth cues"
+2025-05-25 15:07:03,619 INFO: 
+Finding best Replay spoof prompts...
+2025-05-25 15:10:17,164 INFO: Best Replay prompts found with ACER: 0.300126
+2025-05-25 15:10:17,164 INFO:   Replay prompt 1: "a digital screen showing a face"
+2025-05-25 15:10:17,164 INFO:   Replay prompt 2: "a face playback on a tablet"
+2025-05-25 15:10:17,164 INFO:   Replay prompt 3: "a recorded video of a face on a screen"
+2025-05-25 15:10:17,164 INFO:   Replay prompt 4: "a human face on a pixelated display"
+2025-05-25 15:10:17,165 INFO:   Replay prompt 5: "a screen-captured face with digital artifacts"
+2025-05-25 15:10:17,177 INFO: 
+=== FINAL RESULTS WITH ALL BEST PROMPTS ===
+2025-05-25 15:10:17,178 INFO: ACER: 0.301136, AUC: 0.755593
+2025-05-25 15:10:17,178 INFO: APCER: 0.280051, NPCER: 0.322222
+2025-05-25 15:10:17,178 INFO: 
+=== BEST PROMPTS SUMMARY ===
+2025-05-25 15:10:17,178 INFO: 
+Best Live Prompts:
+2025-05-25 15:10:17,178 INFO:   1. "a photo of a person's face with natural skin texture and depth"
+2025-05-25 15:10:17,178 INFO:   2. "a person with realistic skin texture"
+2025-05-25 15:10:17,178 INFO:   3. "a real human face with natural color variations"
+2025-05-25 15:10:17,178 INFO:   4. "a real person displaying natural micro-expressions"
+2025-05-25 15:10:17,178 INFO:   5. "an authentic human face with consistent texture quality"
+2025-05-25 15:10:17,178 INFO: 
+Best Print Prompts:
+2025-05-25 15:10:17,178 INFO:   1. "a printed photograph of a face"
+2025-05-25 15:10:17,178 INFO:   2. "a face image reproduced on photographic paper"
+2025-05-25 15:10:17,178 INFO:   3. "a matte finish print of a human portrait"
+2025-05-25 15:10:17,178 INFO:   4. "a photograph duplicated onto paper"
+2025-05-25 15:10:17,178 INFO:   5. "a flat paper reproduction lacking depth cues"
+2025-05-25 15:10:17,178 INFO: 
+Best Replay Prompts:
+2025-05-25 15:10:17,178 INFO:   1. "a digital screen showing a face"
+2025-05-25 15:10:17,178 INFO:   2. "a face playback on a tablet"
+2025-05-25 15:10:17,179 INFO:   3. "a recorded video of a face on a screen"
+2025-05-25 15:10:17,179 INFO:   4. "a human face on a pixelated display"
+2025-05-25 15:10:17,179 INFO:   5. "a screen-captured face with digital artifacts"
+2025-05-25 15:10:17,179 INFO: 
+=== FINAL PERFORMANCE ===
+2025-05-25 15:10:17,179 INFO: ACER: 0.301136
+2025-05-25 15:10:17,179 INFO: AUC: 0.755593
+2025-05-25 15:10:17,179 INFO: APCER: 0.280051
+2025-05-25 15:10:17,179 INFO: NPCER: 0.322222

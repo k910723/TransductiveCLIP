@@ -1,0 +1,90 @@
+{
+  "best_prompts": {
+    "live": [
+      "a person looking directly at the camera",
+      "a photo of a person's face with natural skin texture and depth",
+      "a real face with natural shadows and highlights",
+      "a real portrait showing subtle facial asymmetry",
+      "a genuine face with reactive pupils"
+    ],
+    "Print": [
+      "a person's face printed on paper",
+      "a face reproduced on printer paper",
+      "a 2D printed reproduction of a portrait",
+      "a matte finish print of a human portrait",
+      "a photograph duplicated onto paper"
+    ],
+    "Replay": [
+      "a face displayed on a screen",
+      "a person's face on a smartphone screen",
+      "a face playback on a tablet",
+      "a human face replayed on an LCD display",
+      "a replayed video showing a human face"
+    ],
+    "Mask": [
+      "a person wearing a 3D mask",
+      "a silicone mask covering a face",
+      "a lifelike mask of a human face",
+      "a person disguised behind a realistic face covering",
+      "a prosthetic face mask with simulated details"
+    ],
+    "Partial": [
+      "a partially masked human face",
+      "a face presentation with obscured areas",
+      "a fragmentary view of a human face",
+      "a face with certain features blocked out",
+      "a face with regions intentionally obscured"
+    ],
+    "Mannequin": [
+      "a mannequin head",
+      "a plastic mannequin face",
+      "an artificial face used for display",
+      "a synthetic bust with human-like appearance",
+      "a rigid face model lacking flexibility"
+    ]
+  },
+  "best_metrics": {
+    "live": {
+      "ACER": 0.14914301922217849,
+      "AUC": 0.9330522885998391,
+      "APCER": 0.12537537543162533,
+      "NPCER": 0.1729106630127316
+    },
+    "Print": {
+      "ACER": 0.11241789354527454,
+      "AUC": 0.9537574317833684,
+      "APCER": 0.14414414419757596,
+      "NPCER": 0.08069164289297312
+    },
+    "Replay": {
+      "ACER": 0.13399602787417275,
+      "AUC": 0.9293158432207425,
+      "APCER": 0.19594594599159973,
+      "NPCER": 0.07204610975674576
+    },
+    "Mask": {
+      "ACER": 0.15309149220742763,
+      "AUC": 0.9239675554517053,
+      "APCER": 0.21396396400691234,
+      "NPCER": 0.09221902040794293
+    },
+    "Partial": {
+      "ACER": 0.11121928860352262,
+      "AUC": 0.9491101331879429,
+      "APCER": 0.15615615620778436,
+      "NPCER": 0.06628242099926086
+    },
+    "Mannequin": {
+      "ACER": 0.16773005005241465,
+      "AUC": 0.9143700617043556,
+      "APCER": 0.15390390395587028,
+      "NPCER": 0.181556196148959
+    }
+  },
+  "final_metrics": {
+    "ACER": 0.10103547366189451,
+    "AUC": 0.9643122950039378,
+    "APCER": 0.115615615673331,
+    "NPCER": 0.08645533165045803
+  }
+}

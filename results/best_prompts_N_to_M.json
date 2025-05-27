@@ -1,0 +1,51 @@
+{
+  "best_prompts": {
+    "live": [
+      "a person looking directly at the camera",
+      "an authentic face with visible blood circulation",
+      "a real portrait showing subtle facial asymmetry",
+      "a real person displaying natural micro-expressions",
+      "an authentic human face with consistent texture quality"
+    ],
+    "Print": [
+      "a printed photograph of a face",
+      "a person's face printed on paper",
+      "a 2D printed reproduction of a portrait",
+      "a face image reproduced on photographic paper",
+      "a matte finish print of a human portrait"
+    ],
+    "Replay": [
+      "a digital screen showing a face",
+      "a human face replayed on an LCD display",
+      "a human face on a pixelated display",
+      "a replayed video showing a human face",
+      "a face with unnatural electronic coloration"
+    ]
+  },
+  "best_metrics": {
+    "live": {
+      "ACER": 0.4976190480430839,
+      "AUC": 0.36605442176870745,
+      "APCER": 0.9380952376780045,
+      "NPCER": 0.05714285840816328
+    },
+    "Print": {
+      "ACER": 0.26904761937641725,
+      "AUC": 0.7680952380952382,
+      "APCER": 0.15238095271201815,
+      "NPCER": 0.3857142860408163
+    },
+    "Replay": {
+      "ACER": 0.3571428575918368,
+      "AUC": 0.5969727891156462,
+      "APCER": 0.5428571428163266,
+      "NPCER": 0.17142857236734696
+    }
+  },
+  "final_metrics": {
+    "ACER": 0.3571428575918368,
+    "AUC": 0.5973469387755102,
+    "APCER": 0.5428571428163266,
+    "NPCER": 0.17142857236734696
+  }
+}

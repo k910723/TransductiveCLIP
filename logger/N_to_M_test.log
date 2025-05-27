@@ -1,0 +1,738 @@
+2025-05-13 04:15:43,088 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-13 04:15:43,092 INFO: ACER 0.473810 AUC 0.421327 APCER 0.790476 BPCER 0.157143
+
+2025-05-13 04:30:24,289 INFO: Text features for prompts computed and normalized.
+2025-05-13 04:40:42,249 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-13 04:40:42,254 INFO: ACER 0.473810 AUC 0.362109 APCER 0.890476 BPCER 0.057143
+
+2025-05-13 05:16:15,555 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-13 05:16:15,563 INFO: ACER 0.447619 AUC 0.489728 APCER 0.595238 BPCER 0.300000
+
+2025-05-13 16:33:00,956 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-13 16:33:00,964 INFO: ACER 0.497619 AUC 0.424286 APCER 0.195238 BPCER 0.800000
+
+2025-05-13 16:39:22,104 INFO: Text features for prompts computed and normalized.
+2025-05-13 16:50:00,623 INFO: Text features for prompts computed and normalized.
+2025-05-14 01:39:58,623 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 01:39:58,628 INFO: ACER 0.166667 AUC 0.704830 APCER 0.290476 BPCER 0.042857
+
+2025-05-14 01:41:12,594 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 01:41:12,602 INFO: ACER 0.488095 AUC 0.387109 APCER 0.190476 BPCER 0.785714
+
+2025-05-14 02:45:19,145 INFO: model: CLIP
+2025-05-14 02:45:19,150 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 02:45:19,150 INFO: ACER 0.340476 AUC 0.675850 APCER 0.309524 BPCER 0.371429
+
+2025-05-14 03:03:20,220 INFO: model: CLIP
+2025-05-14 03:03:20,229 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:03:20,229 INFO: ACER 0.483333 AUC 0.389898 APCER 0.952381 BPCER 0.014286
+
+2025-05-14 03:35:48,203 INFO: model: CLIP
+2025-05-14 03:35:48,207 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:35:48,207 INFO: ACER 0.419048 AUC 0.488844 APCER 0.823810 BPCER 0.014286
+
+2025-05-14 03:39:15,629 INFO: model: CLIP
+2025-05-14 03:39:15,634 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:39:15,634 INFO: ACER 0.430952 AUC 0.472721 APCER 0.861905 BPCER 0.000000
+
+2025-05-14 03:45:55,289 INFO: model: CLIP
+2025-05-14 03:45:55,294 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:45:55,294 INFO: ACER 0.488095 AUC 0.365306 APCER 0.004762 BPCER 0.971429
+
+2025-05-14 03:46:49,369 INFO: model: CLIP
+2025-05-14 03:46:49,374 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:46:49,374 INFO: ACER 0.459524 AUC 0.426361 APCER 0.919048 BPCER 0.000000
+
+2025-05-14 03:47:04,338 INFO: model: CLIP
+2025-05-14 03:47:04,342 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:47:04,342 INFO: ACER 0.419048 AUC 0.488401 APCER 0.823810 BPCER 0.014286
+
+2025-05-14 03:50:18,450 INFO: model: AlignCLIP + Transductive
+2025-05-14 03:50:18,455 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:50:18,457 INFO: lambda = 90, temperature = 0.75, gamma = 0.1
+2025-05-14 03:50:18,457 INFO: ACER 0.473810 AUC 0.438571 APCER 0.476190 BPCER 0.471429
+
+2025-05-14 03:51:44,512 INFO: model: AlignCLIP + Transductive
+2025-05-14 03:51:44,517 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:51:44,517 INFO: lambda = 90, temperature = 0.75, gamma = 0.1
+2025-05-14 03:51:44,517 INFO: ACER 0.500000 AUC 0.339830 APCER 0.000000 BPCER 1.000000
+
+2025-05-14 03:56:49,354 INFO: model: AlignCLIP + Transductive
+2025-05-14 03:56:49,358 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 03:56:49,358 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 03:56:49,358 INFO: ACER 0.450000 AUC 0.408707 APCER 0.171429 BPCER 0.728571
+
+2025-05-14 04:04:55,283 INFO: model: CLIP
+2025-05-14 04:04:55,288 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:04:55,288 INFO: ACER 0.333333 AUC 0.686327 APCER 0.395238 BPCER 0.271429
+
+2025-05-14 04:10:02,183 INFO: model: CLIP
+2025-05-14 04:10:02,188 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:10:02,188 INFO: ACER 0.464286 AUC 0.407177 APCER 0.914286 BPCER 0.014286
+
+2025-05-14 04:12:05,447 INFO: model: CLIP
+2025-05-14 04:12:05,451 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:12:05,452 INFO: ACER 0.338095 AUC 0.692823 APCER 0.404762 BPCER 0.271429
+
+2025-05-14 04:14:49,032 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:14:49,037 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:14:49,037 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 04:14:49,037 INFO: ACER 0.447619 AUC 0.530714 APCER 0.609524 BPCER 0.285714
+
+2025-05-14 04:16:04,130 INFO: model: CLIP
+2025-05-14 04:16:04,135 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:16:04,135 INFO: ACER 0.330952 AUC 0.699932 APCER 0.276190 BPCER 0.385714
+
+2025-05-14 04:22:10,646 INFO: model: CLIP
+2025-05-14 04:22:10,651 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:22:10,651 INFO: ACER 0.338095 AUC 0.690714 APCER 0.319048 BPCER 0.357143
+
+2025-05-14 04:22:34,600 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:22:34,605 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:22:34,605 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 04:22:34,605 INFO: ACER 0.433333 AUC 0.553605 APCER 0.552381 BPCER 0.314286
+
+2025-05-14 04:24:00,773 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:24:00,777 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:24:00,778 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 04:24:00,778 INFO: ACER 0.497619 AUC 0.400000 APCER 0.195238 BPCER 0.800000
+
+2025-05-14 04:25:46,562 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:25:46,566 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:25:46,566 INFO: lambda = 450, temperature = 0.75, gamma = 0.0
+2025-05-14 04:25:46,566 INFO: ACER 0.497619 AUC 0.333095 APCER 0.995238 BPCER 0.000000
+
+2025-05-14 04:26:09,721 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:26:09,726 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:26:09,726 INFO: lambda = 30, temperature = 0.75, gamma = 0.0
+2025-05-14 04:26:09,726 INFO: ACER 0.469048 AUC 0.337619 APCER 0.180952 BPCER 0.757143
+
+2025-05-14 04:26:23,777 INFO: model: AlignCLIP + Transductive
+2025-05-14 04:26:23,782 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 04:26:23,782 INFO: lambda = 60, temperature = 0.75, gamma = 0.0
+2025-05-14 04:26:23,782 INFO: ACER 0.488095 AUC 0.276429 APCER 0.190476 BPCER 0.785714
+
+2025-05-14 16:31:03,319 INFO: model: AlignCLIP + Transductive
+2025-05-14 16:31:03,324 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 16:31:03,324 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 16:31:03,324 INFO: ACER 0.478571 AUC 0.419354 APCER 0.185714 BPCER 0.771429
+
+2025-05-14 17:07:58,117 INFO: model: AlignCLIP + Transductive
+2025-05-14 17:07:58,126 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 17:07:58,126 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 17:07:58,126 INFO: ACER 0.492857 AUC 0.387755 APCER 0.971429 BPCER 0.014286
+
+2025-05-14 17:13:05,985 INFO: model: AlignCLIP + Transductive
+2025-05-14 17:13:05,990 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 17:13:05,990 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 17:13:05,990 INFO: ACER 0.500000 AUC 0.263163 APCER 0.000000 BPCER 1.000000
+
+2025-05-14 23:14:39,359 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:14:39,364 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:14:39,364 INFO: lambda = 90, temperature = 0.75, gamma = 0.0
+2025-05-14 23:14:39,364 INFO: ACER 0.445238 AUC 0.513639 APCER 0.833333 BPCER 0.057143
+
+2025-05-14 23:14:50,599 INFO: model: CLIP
+2025-05-14 23:14:50,603 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:14:50,603 INFO: ACER 0.340476 AUC 0.691054 APCER 0.323810 BPCER 0.357143
+
+2025-05-14 23:16:10,907 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:16:10,912 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:16:10,912 INFO: lambda = 90, temperature = 1, gamma = 0.0
+2025-05-14 23:16:10,912 INFO: ACER 0.404762 AUC 0.567517 APCER 0.666667 BPCER 0.142857
+
+2025-05-14 23:16:26,648 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:16:26,653 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:16:26,653 INFO: lambda = 90, temperature = 1.25, gamma = 0.0
+2025-05-14 23:16:26,653 INFO: ACER 0.416667 AUC 0.514728 APCER 0.590476 BPCER 0.242857
+
+2025-05-14 23:16:45,116 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:16:45,121 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:16:45,121 INFO: lambda = 120, temperature = 1, gamma = 0.0
+2025-05-14 23:16:45,121 INFO: ACER 0.428571 AUC 0.553741 APCER 0.500000 BPCER 0.357143
+
+2025-05-14 23:17:02,178 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:17:02,183 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:17:02,183 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:17:02,183 INFO: ACER 0.383333 AUC 0.605918 APCER 0.509524 BPCER 0.257143
+
+2025-05-14 23:17:18,163 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:17:18,168 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:17:18,168 INFO: lambda = 60, temperature = 1, gamma = 0.0
+2025-05-14 23:17:18,168 INFO: ACER 0.388095 AUC 0.608741 APCER 0.419048 BPCER 0.357143
+
+2025-05-14 23:17:34,088 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:17:34,093 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:17:34,093 INFO: lambda = 70, temperature = 1, gamma = 0.0
+2025-05-14 23:17:34,093 INFO: ACER 0.419048 AUC 0.532483 APCER 0.538095 BPCER 0.300000
+
+2025-05-14 23:17:51,709 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:17:51,714 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:17:51,714 INFO: lambda = 50, temperature = 1, gamma = 0.0
+2025-05-14 23:17:51,714 INFO: ACER 0.411905 AUC 0.547687 APCER 0.552381 BPCER 0.271429
+
+2025-05-14 23:18:09,056 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:18:09,061 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:18:09,061 INFO: lambda = 80, temperature = 1, gamma = 0.1
+2025-05-14 23:18:09,061 INFO: ACER 0.404762 AUC 0.574592 APCER 0.395238 BPCER 0.414286
+
+2025-05-14 23:18:30,479 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:18:30,484 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:18:30,484 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:18:30,484 INFO: ACER 0.440476 AUC 0.518810 APCER 0.609524 BPCER 0.271429
+
+2025-05-14 23:18:41,812 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:18:41,817 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:18:41,817 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:18:41,817 INFO: ACER 0.392857 AUC 0.572653 APCER 0.428571 BPCER 0.357143
+
+2025-05-14 23:18:59,655 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:18:59,660 INFO: Train on N, Test on M, Batch Size = 50
+2025-05-14 23:18:59,660 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:18:59,660 INFO: ACER 0.445238 AUC 0.527041 APCER 0.261905 BPCER 0.628571
+
+2025-05-14 23:19:15,255 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:19:15,260 INFO: Train on N, Test on M, Batch Size = 100
+2025-05-14 23:19:15,260 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:19:15,260 INFO: ACER 0.421429 AUC 0.533810 APCER 0.671429 BPCER 0.171429
+
+2025-05-14 23:19:29,250 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:19:29,255 INFO: Train on N, Test on M, Batch Size = 20
+2025-05-14 23:19:29,255 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:19:29,255 INFO: ACER 0.461905 AUC 0.524898 APCER 0.395238 BPCER 0.528571
+
+2025-05-14 23:19:39,259 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:19:39,263 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:19:39,263 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:19:39,263 INFO: ACER 0.400000 AUC 0.601429 APCER 0.628571 BPCER 0.171429
+
+2025-05-14 23:19:57,146 INFO: model: AlignCLIP + Transductive
+2025-05-14 23:19:57,151 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:19:57,151 INFO: lambda = 80, temperature = 1, gamma = 0.0
+2025-05-14 23:19:57,151 INFO: ACER 0.411905 AUC 0.568129 APCER 0.595238 BPCER 0.228571
+
+2025-05-14 23:31:38,886 INFO: model: CLIP
+2025-05-14 23:31:38,890 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-14 23:31:38,891 INFO: ACER 0.500000 AUC 0.322925 APCER 0.000000 BPCER 1.000000
+
+2025-05-21 17:07:06,222 INFO: model: CLIP
+2025-05-21 17:07:06,231 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-21 17:07:06,231 INFO: ACER 0.283333 AUC 0.750612 APCER 0.338095 BPCER 0.228571
+
+2025-05-21 17:12:43,342 INFO: model: AlignCLIP + Transductive
+2025-05-21 17:12:43,347 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-21 17:12:43,347 INFO: lambda = 70, temperature = 0.75, gamma = 0.0
+2025-05-21 17:12:43,347 INFO: ACER 0.440476 AUC 0.346088 APCER 0.166667 BPCER 0.714286
+
+2025-05-21 17:17:08,103 INFO: model: AlignCLIP + Transductive
+2025-05-21 17:17:08,108 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-21 17:17:08,108 INFO: lambda = 70, temperature = 0.75, gamma = 0.0
+2025-05-21 17:17:08,108 INFO: ACER 0.483333 AUC 0.313367 APCER 0.795238 BPCER 0.171429
+
+2025-05-21 20:49:07,907 INFO: model: CLIP
+2025-05-21 20:49:07,915 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-21 20:49:07,915 INFO: ACER 0.295238 AUC 0.742619 APCER 0.361905 BPCER 0.228571
+
+2025-05-21 20:49:29,332 INFO: model: CLIP
+2025-05-21 20:49:29,337 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-21 20:49:29,337 INFO: ACER 0.283333 AUC 0.755612 APCER 0.323810 BPCER 0.242857
+
+2025-05-22 12:40:36,273 INFO: model: CLIP
+2025-05-22 12:40:36,280 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-22 12:40:36,280 INFO: ACER 0.388095 AUC 0.538639 APCER 0.676190 BPCER 0.100000
+
+2025-05-23 16:32:57,750 INFO: Generated 30 text anchor embeddings.
+2025-05-23 16:32:57,972 INFO: 
+Batch 1: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:32:57,985 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:32:58,003 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,008 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,008 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,009 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,009 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,009 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,010 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,010 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,011 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,011 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,011 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,011 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,012 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,012 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,013 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,013 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,013 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,013 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,014 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,014 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,015 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:32:58,167 INFO: 
+Batch 2: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:32:58,187 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:32:58,188 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,188 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,188 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,189 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,189 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,189 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,190 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,190 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,190 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,191 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,191 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,191 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,192 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,192 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,193 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,193 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,193 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,194 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,194 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,194 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,194 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:32:58,350 INFO: 
+Batch 3: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:32:58,370 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:32:58,370 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,371 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,371 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,372 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,372 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,372 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,373 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,373 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,373 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,374 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,374 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,374 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,375 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,375 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,375 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,376 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,376 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,376 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,377 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,377 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,377 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:32:58,492 INFO: 
+Batch 4: Starting TCLIP EM Algorithm for 55 samples...
+2025-05-23 16:32:58,505 INFO: Starting TCLIP EM with N=55, D=512, K_clusters=6
+2025-05-23 16:32:58,506 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,506 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,506 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,507 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,507 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,507 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,508 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,508 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,508 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,509 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,509 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,509 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,509 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,510 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,510 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,510 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,511 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,511 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,512 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,512 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:32:58,512 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:32:58,513 INFO: Optimal Threshold for CS: inf
+2025-05-23 16:32:58,514 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-23 16:33:29,481 INFO: Generated 30 text anchor embeddings.
+2025-05-23 16:33:29,701 INFO: 
+Batch 1: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:33:29,714 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:33:29,732 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,736 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,737 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,737 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,738 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,738 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,738 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,739 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,739 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,739 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,740 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,740 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,740 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,741 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,741 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,741 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,742 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,742 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,742 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,743 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,743 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:33:29,896 INFO: 
+Batch 2: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:33:29,916 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:33:29,916 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,917 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,917 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,918 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,918 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,918 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,919 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,919 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,919 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,920 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,920 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,920 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,921 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,921 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,921 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,922 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,922 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,922 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,923 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,923 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:29,923 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:33:30,079 INFO: 
+Batch 3: Starting TCLIP EM Algorithm for 75 samples...
+2025-05-23 16:33:30,099 INFO: Starting TCLIP EM with N=75, D=512, K_clusters=6
+2025-05-23 16:33:30,100 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,100 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,100 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,101 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,101 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,101 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,102 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,102 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,102 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,103 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,103 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,104 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,104 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,104 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,105 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,105 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,105 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,105 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,106 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,106 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,106 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:33:30,221 INFO: 
+Batch 4: Starting TCLIP EM Algorithm for 55 samples...
+2025-05-23 16:33:30,234 INFO: Starting TCLIP EM with N=55, D=512, K_clusters=6
+2025-05-23 16:33:30,235 WARNING: Iter 1: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,235 WARNING: Iter 2: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,235 WARNING: Iter 3: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,236 WARNING: Iter 4: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,236 WARNING: Iter 5: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,236 WARNING: Iter 6: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,237 WARNING: Iter 7: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,237 WARNING: Iter 8: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,237 WARNING: Iter 9: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,238 WARNING: Iter 10: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,238 WARNING: Iter 11: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,238 WARNING: Iter 12: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,239 WARNING: Iter 13: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,239 WARNING: Iter 14: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,240 WARNING: Iter 15: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,240 WARNING: Iter 16: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,240 WARNING: Iter 17: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,241 WARNING: Iter 18: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,241 WARNING: Iter 19: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,241 WARNING: Iter 20: Cluster(s) became empty. Re-initializing means for stability or skipping update.
+2025-05-23 16:33:30,241 INFO: TCLIP EM Algorithm finished for batch.
+2025-05-23 16:33:30,242 INFO: Optimal Threshold for CS: inf
+2025-05-23 16:33:30,244 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-23 16:33:30,244 INFO: Final Metrics - ACER 0.500000 AUC 0.500000 APCER 0.000000 BPCER 1.000000
+
+2025-05-23 21:38:15,126 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-23 21:38:15,131 INFO: ACER 0.500000 AUC 0.393435 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 10:41:36,050 INFO: model: CLIP
+2025-05-24 10:41:36,055 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 10:41:36,055 INFO: ACER 0.271429 AUC 0.767721 APCER 0.257143 BPCER 0.285714
+
+2025-05-24 10:42:08,098 INFO: model: CLIP
+2025-05-24 10:42:08,102 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 10:42:08,103 INFO: ACER 0.283333 AUC 0.753946 APCER 0.338095 BPCER 0.228571
+
+2025-05-24 10:53:55,657 INFO: model: CLIP + Protext
+2025-05-24 10:53:55,662 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 10:53:55,662 INFO: ACER 0.488095 AUC 0.359490 APCER 0.019048 BPCER 0.957143
+
+2025-05-24 11:01:08,046 INFO: model: CLIP + Protext
+2025-05-24 11:01:08,051 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:01:08,051 INFO: ACER 0.483333 AUC 0.389830 APCER 0.952381 BPCER 0.014286
+
+2025-05-24 11:04:40,649 INFO: model: CLIP + Protext
+2025-05-24 11:04:40,653 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:04:40,653 INFO: ACER 0.485714 AUC 0.388197 APCER 0.957143 BPCER 0.014286
+
+2025-05-24 11:06:27,706 INFO: model: CLIP + Protext
+2025-05-24 11:06:27,713 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:06:27,713 INFO: ACER 0.283333 AUC 0.753776 APCER 0.338095 BPCER 0.228571
+
+2025-05-24 11:06:57,123 INFO: model: CLIP + Protext
+2025-05-24 11:06:57,128 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:06:57,128 INFO: ACER 0.488095 AUC 0.344116 APCER 0.019048 BPCER 0.957143
+
+2025-05-24 11:13:29,317 INFO: model: CLIP + Protext
+2025-05-24 11:13:29,322 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:13:29,322 INFO: ACER 0.488095 AUC 0.337619 APCER 0.019048 BPCER 0.957143
+
+2025-05-24 11:13:43,786 INFO: model: CLIP + Protext
+2025-05-24 11:13:43,791 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:13:43,791 INFO: ACER 0.488095 AUC 0.351020 APCER 0.019048 BPCER 0.957143
+
+2025-05-24 11:14:09,564 INFO: model: CLIP + Protext
+2025-05-24 11:14:09,569 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:14:09,569 INFO: ACER 0.500000 AUC 0.333571 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 11:15:36,842 INFO: model: CLIP + nips24EM
+2025-05-24 11:15:36,847 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:15:36,847 INFO: ACER 0.500000 AUC 0.384456 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 11:37:43,071 INFO: model: CLIP + nips24EM
+2025-05-24 11:37:43,075 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:37:43,076 INFO: ACER 0.500000 AUC 0.341769 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 11:50:11,823 INFO: model: CLIP + nips24EM
+2025-05-24 11:50:11,828 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 11:50:11,828 INFO: ACER 0.500000 AUC 0.422517 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 16:07:32,134 INFO: model: CLIP + nips24EM
+2025-05-24 16:07:32,139 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 16:07:32,139 INFO: ACER 0.442857 AUC 0.482381 APCER 0.271429 BPCER 0.614286
+
+2025-05-24 17:01:01,878 INFO: model: CLIP + nips24EM
+2025-05-24 17:01:01,883 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 17:01:01,883 INFO: ACER 0.497619 AUC 0.400544 APCER 0.080952 BPCER 0.914286
+
+2025-05-24 17:36:49,777 INFO: model: CLIP + nips24EM
+2025-05-24 17:36:49,782 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 17:36:49,782 INFO: ACER 0.464286 AUC 0.487313 APCER 0.857143 BPCER 0.071429
+
+2025-05-24 17:37:30,562 INFO: model: CLIP
+2025-05-24 17:37:30,567 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 17:37:30,567 INFO: ACER 0.464286 AUC 0.509966 APCER 0.814286 BPCER 0.114286
+
+2025-05-24 17:58:16,039 INFO: model: CLIP
+2025-05-24 17:58:16,044 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 17:58:16,044 INFO: ACER 0.464286 AUC 0.509864 APCER 0.814286 BPCER 0.114286
+
+2025-05-24 18:14:53,449 INFO: model: CLIP
+2025-05-24 18:14:53,453 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 18:14:53,453 INFO: ACER 0.497619 AUC 0.409490 APCER 0.995238 BPCER 0.000000
+
+2025-05-24 18:15:05,696 INFO: model: CLIP + nips24EM
+2025-05-24 18:15:05,701 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 18:15:05,701 INFO: ACER 0.464286 AUC 0.504218 APCER 0.885714 BPCER 0.042857
+
+2025-05-24 18:48:32,843 INFO: model: CLIP
+2025-05-24 18:48:32,848 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 18:48:32,848 INFO: ACER 0.421429 AUC 0.478946 APCER 0.785714 BPCER 0.057143
+
+2025-05-24 18:48:49,102 INFO: model: CLIP + nips24EM
+2025-05-24 18:48:49,107 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 18:48:49,107 INFO: ACER 0.480952 AUC 0.441565 APCER 0.576190 BPCER 0.385714
+
+2025-05-24 19:06:39,335 INFO: model: CLIP + nips24EM
+2025-05-24 19:06:39,340 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 19:06:39,340 INFO: ACER 0.473810 AUC 0.487347 APCER 0.104762 BPCER 0.842857
+
+2025-05-24 19:12:24,098 INFO: model: CLIP + nips24EM
+2025-05-24 19:12:24,103 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 19:12:24,103 INFO: ACER 0.488095 AUC 0.392857 APCER 0.961905 BPCER 0.014286
+
+2025-05-24 19:16:41,936 INFO: model: CLIP + nips24EM
+2025-05-24 19:16:41,941 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 19:16:41,941 INFO: ACER 0.488095 AUC 0.443946 APCER 0.533333 BPCER 0.442857
+
+2025-05-24 20:36:14,695 INFO: model: CLIP + nips24EM
+2025-05-24 20:36:14,699 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 20:36:14,699 INFO: ACER 0.464286 AUC 0.504014 APCER 0.771429 BPCER 0.157143
+
+2025-05-24 20:37:36,868 INFO: model: CLIP
+2025-05-24 20:37:36,873 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 20:37:36,873 INFO: ACER 0.497619 AUC 0.409252 APCER 0.995238 BPCER 0.000000
+
+2025-05-24 20:45:25,936 INFO: model: CLIP
+2025-05-24 20:45:25,941 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 20:45:25,941 INFO: ACER 0.350000 AUC 0.650136 APCER 0.414286 BPCER 0.285714
+
+2025-05-24 20:46:24,004 INFO: model: CLIP
+2025-05-24 20:46:24,009 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 20:46:24,009 INFO: ACER 0.402381 AUC 0.617959 APCER 0.619048 BPCER 0.185714
+
+2025-05-24 20:48:34,648 INFO: model: CLIP + nips24EM
+2025-05-24 20:48:34,653 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 20:48:34,653 INFO: ACER 0.440476 AUC 0.532313 APCER 0.080952 BPCER 0.800000
+
+2025-05-24 21:07:28,770 INFO: model: CLIP
+2025-05-24 21:07:28,775 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:07:28,775 INFO: ACER 0.497619 AUC 0.348639 APCER 0.995238 BPCER 0.000000
+
+2025-05-24 21:19:22,401 INFO: model: CLIP
+2025-05-24 21:19:22,410 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:19:22,410 INFO: ACER 0.447619 AUC 0.484830 APCER 0.638095 BPCER 0.257143
+
+2025-05-24 21:20:26,329 INFO: model: CLIP + nips24EM
+2025-05-24 21:20:26,333 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:20:26,333 INFO: ACER 0.485714 AUC 0.453197 APCER 0.928571 BPCER 0.042857
+
+2025-05-24 21:38:25,371 INFO: model: CLIP
+2025-05-24 21:38:25,375 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:38:25,375 INFO: ACER 0.466667 AUC 0.463878 APCER 0.861905 BPCER 0.071429
+
+2025-05-24 21:39:37,853 INFO: model: CLIP
+2025-05-24 21:39:37,858 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:39:37,858 INFO: ACER 0.438095 AUC 0.487721 APCER 0.833333 BPCER 0.042857
+
+2025-05-24 21:41:54,308 INFO: model: CLIP + nips24EM
+2025-05-24 21:41:54,312 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 21:41:54,313 INFO: ACER 0.464286 AUC 0.490068 APCER 0.871429 BPCER 0.057143
+
+2025-05-24 22:16:29,331 INFO: model: CLIP
+2025-05-24 22:16:29,335 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 22:16:29,335 INFO: ACER 0.497619 AUC 0.348776 APCER 0.995238 BPCER 0.000000
+
+2025-05-24 22:16:50,087 INFO: model: CLIP + nips24EM  + Prior Refinement
+2025-05-24 22:16:50,092 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 22:16:50,092 INFO: ACER 0.495238 AUC 0.382551 APCER 0.990476 BPCER 0.000000
+
+2025-05-24 22:17:36,976 INFO: model: CLIP + nips24EM  + Prior Refinement
+2025-05-24 22:17:36,980 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 22:17:36,980 INFO: ACER 0.461905 AUC 0.529014 APCER 0.395238 BPCER 0.528571
+
+2025-05-24 22:32:55,248 INFO: model: CLIP
+2025-05-24 22:32:55,253 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-24 22:32:55,253 INFO: ACER 0.447619 AUC 0.485170 APCER 0.638095 BPCER 0.257143
+
+2025-05-24 22:33:42,145 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:33:42,150 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 384
+2025-05-24 22:33:42,150 INFO: ACER 0.485714 AUC 0.399524 APCER 0.957143 BPCER 0.014286
+
+2025-05-24 22:34:15,476 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:34:15,481 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 256
+2025-05-24 22:34:15,481 INFO: ACER 0.492857 AUC 0.401190 APCER 0.928571 BPCER 0.057143
+
+2025-05-24 22:34:33,290 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:34:33,295 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 128
+2025-05-24 22:34:33,295 INFO: ACER 0.500000 AUC 0.330068 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 22:34:46,300 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:34:46,305 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 64
+2025-05-24 22:34:46,305 INFO: ACER 0.500000 AUC 0.427721 APCER 0.000000 BPCER 1.000000
+
+2025-05-24 22:34:59,613 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:34:59,618 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 32
+2025-05-24 22:34:59,618 INFO: ACER 0.395238 AUC 0.617585 APCER 0.576190 BPCER 0.214286
+
+2025-05-24 22:35:33,270 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:35:33,275 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 16
+2025-05-24 22:35:33,275 INFO: ACER 0.402381 AUC 0.578776 APCER 0.576190 BPCER 0.228571
+
+2025-05-24 22:35:54,447 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-24 22:35:54,453 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 24
+2025-05-24 22:35:54,453 INFO: ACER 0.400000 AUC 0.577177 APCER 0.628571 BPCER 0.171429
+
+2025-05-25 02:46:59,128 INFO: model: CLIP
+2025-05-25 02:46:59,132 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 02:46:59,132 INFO: ACER 0.452381 AUC 0.477789 APCER 0.633333 BPCER 0.271429
+
+2025-05-25 15:36:40,093 INFO: model: CLIP
+2025-05-25 15:36:40,098 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 15:36:40,098 INFO: ACER 0.497619 AUC 0.346020 APCER 0.995238 BPCER 0.000000
+
+2025-05-25 15:37:29,491 INFO: model: CLIP
+2025-05-25 15:37:29,496 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 15:37:29,496 INFO: ACER 0.447619 AUC 0.485170 APCER 0.638095 BPCER 0.257143
+
+2025-05-25 15:38:12,346 INFO: model: CLIP
+2025-05-25 15:38:12,350 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 15:38:12,351 INFO: ACER 0.500000 AUC 0.181224 APCER 0.000000 BPCER 1.000000
+
+2025-05-25 15:40:40,811 INFO: model: CLIP
+2025-05-25 15:40:40,816 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 15:40:40,816 INFO: ACER 0.466667 AUC 0.463912 APCER 0.861905 BPCER 0.071429
+
+2025-05-25 15:41:14,585 INFO: model: CLIP
+2025-05-25 15:41:14,589 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 15:41:14,589 INFO: ACER 0.454762 AUC 0.494082 APCER 0.795238 BPCER 0.114286
+
+2025-05-25 16:06:02,618 INFO: model: CLIP
+2025-05-25 16:06:02,623 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 16:06:02,623 INFO: ACER 0.461905 AUC 0.507143 APCER 0.709524 BPCER 0.214286
+
+2025-05-25 16:08:47,429 INFO: model: CLIP
+2025-05-25 16:08:47,434 INFO: Train on N, Test on M, Batch Size = 75
+2025-05-25 16:08:47,434 INFO: ACER 0.357143 AUC 0.598197 APCER 0.514286 BPCER 0.200000
+
+2025-05-25 16:09:00,809 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:09:00,814 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 256
+2025-05-25 16:09:00,814 INFO: ACER 0.454762 AUC 0.510476 APCER 0.738095 BPCER 0.171429
+
+2025-05-25 16:09:17,158 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:09:17,163 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 128
+2025-05-25 16:09:17,163 INFO: ACER 0.445238 AUC 0.515544 APCER 0.376190 BPCER 0.514286
+
+2025-05-25 16:09:45,169 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:09:45,174 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 64
+2025-05-25 16:09:45,174 INFO: ACER 0.388095 AUC 0.586939 APCER 0.376190 BPCER 0.400000
+
+2025-05-25 16:10:04,269 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:10:04,274 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 32
+2025-05-25 16:10:04,274 INFO: ACER 0.407143 AUC 0.595680 APCER 0.657143 BPCER 0.157143
+
+2025-05-25 16:11:12,858 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:11:12,862 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 16
+2025-05-25 16:11:12,863 INFO: ACER 0.409524 AUC 0.612891 APCER 0.376190 BPCER 0.442857
+
+2025-05-25 16:11:44,383 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:11:44,388 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 8
+2025-05-25 16:11:44,388 INFO: ACER 0.414286 AUC 0.586395 APCER 0.242857 BPCER 0.585714
+
+2025-05-25 16:12:24,628 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:12:24,633 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 96
+2025-05-25 16:12:24,633 INFO: ACER 0.457143 AUC 0.506327 APCER 0.328571 BPCER 0.585714
+
+2025-05-25 16:12:40,762 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:12:40,766 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 64
+2025-05-25 16:12:40,767 INFO: ACER 0.388095 AUC 0.587211 APCER 0.304762 BPCER 0.471429
+
+2025-05-25 16:13:36,705 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:13:36,710 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 64
+2025-05-25 16:13:36,710 INFO: ACER 0.383333 AUC 0.585918 APCER 0.352381 BPCER 0.414286
+
+2025-05-25 16:13:46,634 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:13:46,639 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 48
+2025-05-25 16:13:46,639 INFO: ACER 0.354762 AUC 0.642585 APCER 0.252381 BPCER 0.457143
+
+2025-05-25 16:13:59,305 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:13:59,310 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 48
+2025-05-25 16:13:59,310 INFO: ACER 0.357143 AUC 0.639558 APCER 0.342857 BPCER 0.371429
+
+2025-05-25 16:14:15,002 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:14:15,007 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 40
+2025-05-25 16:14:15,007 INFO: ACER 0.421429 AUC 0.587143 APCER 0.728571 BPCER 0.114286
+
+2025-05-25 16:14:32,103 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:14:32,108 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 52
+2025-05-25 16:14:32,108 INFO: ACER 0.328571 AUC 0.643367 APCER 0.214286 BPCER 0.442857
+
+2025-05-25 16:14:59,155 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:14:59,159 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 56
+2025-05-25 16:14:59,160 INFO: ACER 0.350000 AUC 0.629558 APCER 0.214286 BPCER 0.485714
+
+2025-05-25 16:15:30,075 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:15:30,080 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 52
+2025-05-25 16:15:30,080 INFO: ACER 0.338095 AUC 0.638061 APCER 0.247619 BPCER 0.428571
+
+2025-05-25 16:16:19,811 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:16:19,816 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 52
+2025-05-25 16:16:19,816 INFO: ACER 0.335714 AUC 0.636633 APCER 0.257143 BPCER 0.414286
+
+2025-05-25 16:16:29,365 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:16:29,370 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 52
+2025-05-25 16:16:29,370 INFO: ACER 0.345238 AUC 0.639422 APCER 0.219048 BPCER 0.471429
+
+2025-05-25 16:16:47,120 INFO: model: CLIP + nips24EM + Prior Refinement
+2025-05-25 16:16:47,125 INFO: Train on N, Test on M, Batch Size = 75, Channel number = 52
+2025-05-25 16:16:47,125 INFO: ACER 0.335714 AUC 0.637211 APCER 0.257143 BPCER 0.414286
+
